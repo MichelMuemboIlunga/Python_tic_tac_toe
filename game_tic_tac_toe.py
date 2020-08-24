@@ -1,6 +1,7 @@
 """
   @developing by Michel Muembo Ilunga
   13/7/2020 at 3:05 AM.
+  From Jupyter Notebook
 """
 from IPython.display import clear_output
 import random
